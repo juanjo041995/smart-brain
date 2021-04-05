@@ -11,7 +11,7 @@ import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
 import 'tachyons';
 const app = new Clarifai.App({
-  apiKey: "d95bbefc0e604b0fa9131276cc2cb1f9"
+  apiKey: "API_KEY"
 });
 
 const particlesOptions = {
